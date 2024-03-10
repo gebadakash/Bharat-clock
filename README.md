@@ -1,3 +1,8 @@
+
+
+![clock](https://github.com/gebadakash/Bharat-clock/assets/137673292/7620a8c4-adbe-4f7d-b7d2-c559a79396ab)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
